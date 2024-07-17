@@ -1,6 +1,6 @@
 ![Outlook Logo](https://outlookiniciarsesion01.weebly.com/uploads/9/8/5/4/98549006/outlook_orig.jpg)
 
-# Processo de Envio de E-mails com Anexos em Massa
+# Processo de Envio de E-mails com Anexos em Massa / Outlook
 
 Este script em Python automatiza o envio de e-mails em massa utilizando o servidor SMTP do Outlook. Ele obtém informações de destinatários e anexos de um arquivo Excel e envia e-mails personalizados com anexos PDF. Abaixo está uma descrição detalhada do funcionamento do script:
 
